@@ -187,7 +187,7 @@ updateRecords();
 
 ### Day 14: May 8, 2020  - Friday
 
-**Today's Progress**:  I used VIM to work on front end web development.  I created a button that called a JavaScript function which created a variable based on the "style.backgroundColor" setting.
+**Today's Progress**:  I used VIM to work on front end web development.  I created a button that called a JavaScript function which creates a variable based on the "style.backgroundColor", and it changes that setting.
 
 **Thoughts:**  When using VIM, I know how to use (r) to replace the letter with a new one, (x) to remove a letter, (h) to move the cursor left, (j) to move the cursor down, (k) to move the cursor up, (l) to move the cursor right, (ˆ) to move the cursor to the beginning of the line, ($) to move the cursor to the end of the line, (v) to enter visual mode, (Y) to yank text, (p) to paste the text, (i) to insert, (a) to append, and (o) to start writing on a new line below the cursor.  
 

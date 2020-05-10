@@ -199,7 +199,7 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 ### Day 15: May 9, 2020  - Saturday
 
-**Today's Progress**:  
+**Today's Progress** I spent time learning about JavaScript data structures.  I specifically learned about objects.  I spent time understanding how they are constructed.
 
 **Thoughts:**  
 

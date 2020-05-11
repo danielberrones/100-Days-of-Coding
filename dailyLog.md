@@ -201,7 +201,7 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 **Today's Progress** I spent time learning about JavaScript data structures.  I specifically learned about objects.  I spent time understanding how they are constructed.
 
-**Thoughts:**  
+**Thoughts:** Since I have spent the last 4 years practicing Python dictionaries that has helped me understand JavaScript objects. 
 
 
 ************************************************************************

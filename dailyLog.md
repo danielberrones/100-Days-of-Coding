@@ -209,9 +209,9 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 ### Day 16: May 10, 2020  - Sunday
 
-**Today's Progress**:  
+**Today's Progress**:  I continued working on the Records Collection question on freeCodeCamp.  
 
-**Thoughts:**  
+**Thoughts:**  No solution.  Will do more tomorrow.
 
 
 ************************************************************************
@@ -219,9 +219,9 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 ### Day 17: May 11, 2020  - Monday
 
-**Today's Progress**:  
+**Today's Progress**:  I spent time reading through MDN docs about JS objects.
 
-**Thoughts:**  
+**Thoughts:**  I know how to write a for.. in loop to iterate through the JS object keys.  I'm just having trouble fully answering the Records Collection question.  I had to watch a YouTube tutorial to explain the intricacies of this question.
 
 
 ************************************************************************

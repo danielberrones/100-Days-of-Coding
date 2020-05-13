@@ -238,9 +238,9 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 ### Day 19: May 13, 2020  - Wednesday
 
-**Today's Progress**:  
+**Today's Progress**:  Finally figured out the Records Collection question.  
 
-**Thoughts:**  
+**Thoughts:**  I am getting very comfortable with JavaScript objects.  I am excited to continue using them.
 
 ************************************************************************
 

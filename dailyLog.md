@@ -229,9 +229,9 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 ### Day 18: May 12, 2020  - Tuesday
 
-**Today's Progress**:  
+**Today's Progress**:  I practiced hasOwnProperty() method.  I understand Object.keys(myObj)
 
-**Thoughts:**  
+**Thoughts:**  I'm still working on the Records Collection question.  I spent about 2 hours working on it.  I watched a YouTube tutorial explaining how to use for loops on JS objects.  I plan to solve the question tomorrow which i'm looking forward to.  
 
 
 ************************************************************************

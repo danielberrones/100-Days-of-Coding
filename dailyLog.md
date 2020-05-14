@@ -238,7 +238,13 @@ Using VIM to write html, head, style, body, section, article, h2, p, a, div, spa
 
 ### Day 19: May 13, 2020  - Wednesday
 
-**Today's Progress**:  Finally figured out the Records Collection question.  
+**Today's Progress**:  Gaining momentum! Finally figured out the Records Collection question.  And finished Basic JavaScript.
+
+I read MDN docs about:
+-Recursive functions and learned about base case.
+-Number.isNaN()
+-prototype
+-Object.create()
 
 **Thoughts:**  I am getting very comfortable with JavaScript objects.  I am excited to continue using them.
 

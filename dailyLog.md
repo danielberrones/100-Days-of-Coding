@@ -252,17 +252,17 @@ I read MDN docs about:
 
 ### Day 20: May 14, 2020  - Thursday
 
-**Today's Progress**:  
+**Today's Progress**:  Learned about JavaScript map(), reduce()
 
-**Thoughts:**  
+**Thoughts:**  Have focused nearly exclusively on JavaScript.
 
 ************************************************************************
 
 ### Day 21: May 15, 2020  - Friday
 
-**Today's Progress**:  
+**Today's Progress**:  Tinkered with HTML/CSS/JavaScript.  Used getElementById(), and read about recursive functions.
 
-**Thoughts:**  
+**Thoughts:**  I really like flexboxes. By using the justify-content and align-items property, I can easily center items on the x and y axis.
 
 ************************************************************************
 

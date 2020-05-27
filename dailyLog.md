@@ -304,46 +304,53 @@ I read MDN docs about:
 
 ### Day 26: May 20, 2020  - Wednesday
 
-**Today's Progress**:  
+**Today's Progress**: Continued practicing CSS flexboxes 
 
-**Thoughts:**  
+**Thoughts:** I'm really liking {justify-content: space-between;} on the <header>, and I've been placing the <nav> directly in the center, instead of to the right. 
 
 ************************************************************************
 
 ### Day 27: May 21, 2020  - Thursday
 
-**Today's Progress**:  
+**Today's Progress**: I reverse engineered College of Lake County login page. 
 
-**Thoughts:**  
+**Thoughts:** I pushed this code to my gitHub. It was very helpful for me to just replicate what I saw instead of coming up with the design first.  I feel like once the design has been figured out, that I don't have much problem figuring out how to write the programming logic behind it.  I feel like I may be a better back end developer than front end!  But only time will tell... 
 
 ************************************************************************
 
 ### Day 28: May 22, 2020  - Friday
 
-**Today's Progress**:  
+**Today's Progress**:I had fun with HTML and CSS today.
 
-**Thoughts:**  
+**Thoughts:** I didn't stress out about having it perfect.  I just became like Bob Ross and threw some HTML and CSS paint on the web browsing canvas -- and it felt great!	 
 
 ************************************************************************
 
 ### Day 29: May 23, 2020  - Saturday
 
-**Today's Progress**:  
+**Today's Progress**: Once again I reverse engineered a few websites to understand how they group elements. 
 
-**Thoughts:**  
+**Thoughts:**  I've noticed that many developers prefer wrappers for everything.  I'm starting to see the utility in them.
 
 ************************************************************************
 
 ### Day 30: May 24, 2020  - Sunday
 
-**Today's Progress**:  
+**Today's Progress**: I gave myself the day off :) 
 
-**Thoughts:**  
+**Thoughts:** I went to the park and rode my bike to get rid of the stress that I've been placing on myself for coding every single day! 
 
 ************************************************************************
 
 ### Day 31: May 25, 2020  - Monday
 
-**Today's Progress**:  
+**Today's Progress**: I am getting incredibly skilled at using Chrome developer tools.  I like the Command+Option+J shortcut to get to the browser's console.  It saves a ton of time! 
 
-**Thoughts:**  
+**Thoughts:** I built a custom header using position:fixed and top:0.  I can use rgb and rgba with ease now.  I like using Google Fonts.  I just include the link rel in the header and it pings Google's API.   
+
+### Day 32: May 26, 2020  - Tuesday
+
+**Today's Progress**: I spent time editing the Racquetball Simulation program that I redacted from Zelle's Python book!  It's a Monte Carlo simulation and there's a ton of logic in it.  I can compare this.something = something; (in JavaScript) to Python's self.PlayerA = PlayerA.  Point is, I'm finding out that computer science uses many tools to solve problems but the emphasis is on problem solving.  Programming languages are nothing more than tools to problem solve.  Every one has a unique syntax and lately I've been wanting to end a Python statement with a semi-colon because I've been focusing on JavaScript.   
+
+**Thoughts:**  I need to understand JavaScript prototypes better.  I need to understand the reduce function.  I need to understand how to slice, and use the forEach method in JavaScript.  I keep thinking about this functions all the time!  I will not stop until I master them :)
+
